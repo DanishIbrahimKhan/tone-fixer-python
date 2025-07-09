@@ -99,4 +99,4 @@ This project is licensed under the MIT License.
 ## 🙋‍♂️ Author
 
 - [Danish Ibrahim Khan](https://github.com/DanishIbrahimKhan)
-- [Portfolio Website](https://mr-danishibrahim.netlify.app/)
+- [Portfolio Website](https://danishk.netlify.app/)
